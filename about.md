@@ -9,7 +9,7 @@
 <p>Spain is the second-largest country in the European Union after France. It measures up at around 506,000 square kilometers if you include the Canary Islands and the Spanish territories along the North African coastline.</p>
 
 
-<img src="images/EU%20and%20Spain.png" alt="images/EU%20and%20Spain.png" width="100%">
+<img src="images/EU%20and%20Spain.jpg" alt="images/EU%20and%20Spain.jpg" width="100%">
 
 
 <h3><strong>Home of the world’s second most widely-spoken language</strong></h3>
