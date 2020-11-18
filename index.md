@@ -64,8 +64,8 @@
   </div>
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="images/Spain%20Town.jpg">
-        <img src="images/Spain%20Town.jpg" alt="Spain Town.jpg" style="width:100%">
+      <a href="images/Spain%2520Town.jpg">
+        <img src="images/Spain%2520Town.jpg" alt="Spain Town.jpg" style="width:100%">
         <div class="caption">
           <p>Spain's towns are culturally rich.</p>
         </div>
