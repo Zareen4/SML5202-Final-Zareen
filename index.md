@@ -54,8 +54,8 @@
   </div>
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="images/Spain%20Beach.jpg">
-        <img src="images/Spain%20Beach.jpg" alt="Spain Beach.jpg" style="width:100%">
+      <a href="images/Spain%2520Beach.jpg">
+        <img src="images/Spain%2520Beach.jpg" alt="Spain Beach.jpg" style="width:100%">
         <div class="caption">
           <p>Spain's beaches are beautiful and relaxing.</p>
         </div>
