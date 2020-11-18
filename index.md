@@ -44,8 +44,8 @@
 <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="images/Spain%20City.jpg">
-        <img src="images/Spain%20City.jpg" alt="Spain City.jpg" style="width:100%">
+      <a href="images/Spain%2520City.jpg">
+        <img src="images/Spain%2520City.jpg" alt="Spain City.jpg" style="width:100%">
         <div class="caption">
           <p>Spain's cities are modern and grand.</p>
         </div>
