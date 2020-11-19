@@ -17,6 +17,7 @@
 
 
 <img src="images/Spain%20Languages.jpeg" alt="images/Spain%20Languages.jpeg" width="500" height="444">
+<p>&nbsp;</p>
 
 
 <h3><strong>Has the fifth largest population in Europe</strong></h3>
@@ -24,6 +25,7 @@
 
 
 <img src="images/Spain%20Population.png" alt="images/Spain%20Population.png" width="500" height="333">
+<p>&nbsp;</p>
 
 
 <h3><strong>Spanish people live longer</strong></h3>
@@ -31,6 +33,7 @@
 
 
 <img src="images/Spain%20Population%20Age.jpg" alt="images/Spain%20Population%20Age.jpg" width="500" height="333">
+<p>&nbsp;</p>
 
 
 <h3><strong>It’s not quite as religious as you think</strong></h3>
@@ -38,6 +41,7 @@
 
 
 <img src="images/Spain%20Religion.png" alt="images/Spain%20Religion.png" width="500" height="333">
+<p>&nbsp;</p>
 
 
 <h3><strong>Boasts 47 UNESCO World Heritage Sites</strong></h3>
@@ -45,6 +49,7 @@
 
 
 <img src="images/Spain%20Unesco.jpg" alt="images/Spain%20Unesco.jpg" width="500" height="333">
+<p>&nbsp;</p>
 
 
 <h3><strong>The ‘first’ novel was written in Spanish</strong></h3>
@@ -52,6 +57,7 @@
 
 
 <img src="images/Don%20Quixote.jpg" alt="images/Don%20Quixote.jpg" width="500" height="333">
+<p>&nbsp;</p>
 
 
 <h3><strong>The winds of change</strong></h3>
@@ -59,6 +65,7 @@
 
 
 <img src="images/Spain%20Wind%20Turbines.jpg" alt="images/Spain%20Wind%20Turbines.jpg" width="500" height="333">
+<p>&nbsp;</p>
 
 
 <h3><strong>150,000 tomatoes are thrown every year…</strong></h3>
@@ -66,6 +73,7 @@
 
 
 <img src="images/La%20Tomatina.jpg" alt="images/La%20Tomatina.jpg" width="500" height="333">
+<p>&nbsp;</p>
 
 
 <h3><strong>The Spanish are a tolerant society</strong></h3>
@@ -73,6 +81,7 @@
 
 
 <img src="images/Chueca.jpg" alt="images/Chueca.jpg" width="500" height="333">
+<p>&nbsp;</p>
 
 
 <h3><strong>Home to the world’s oldest restaurant</strong></h3>
@@ -80,6 +89,7 @@
  
 
 <img src="images/Oldest%20Restaurant.jpg" alt="images/Oldest%20Restaurant.jpg" width="500" height="333">
+<p>&nbsp;</p>
 
  
 <h3><strong>One of the world’s most popular tourist destinations</strong></h3>
@@ -87,6 +97,7 @@
  
  
 <img src="images/Spain%20Tourism.jpg" alt="images/Spain%20Tourism.jpg" width="500" height="333">
+<p>&nbsp;</p>
  
  
 <h3><strong>The perfect place to let your hair down</strong></h3>
@@ -94,3 +105,4 @@
 
 
 <img src="images/San%20Fermin.jpg" alt="images/San%20Fermin.jpg" width="500" height="333">
+<p>&nbsp;</p>
