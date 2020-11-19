@@ -10,7 +10,7 @@
 
 
 <img src="images/EU%20and%20Spain.png" alt="images/EU%20and%20Spain.png" width="500" height="333">
-
+<p>&nbsp;</p>
 
 <h3><strong>Home of the world’s second most widely-spoken language</strong></h3>
 <p>There are an estimated 460 million native Spanish speakers around the world, second only to Mandarin.</p>
