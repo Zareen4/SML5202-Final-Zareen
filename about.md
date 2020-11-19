@@ -16,7 +16,7 @@
 <p>There are an estimated 460 million native Spanish speakers around the world, second only to Mandarin.</p>
 
 
-<img src="images/Spain%20Languages.jpeg" alt="images/Spain%20Languages.jpeg" width="500" height="333">
+<img src="images/Spain%20Languages.jpeg" alt="images/Spain%20Languages.jpeg" width="500" height="444">
 
 
 <h3><strong>Has the fifth largest population in Europe</strong></h3>
