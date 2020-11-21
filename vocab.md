@@ -2,19 +2,69 @@
 
 <h2>You learn better when you are having fun, so here are some vocabulary games to help you memorise some Spanish</h2>
 
+<h3>
 <ul>
     <li>strawberry = <strong>la fresa</strong></li>
+        <audio controls>
+        <source src="audio/fresa.mp3" type="audio/fresa.mp3">
+        Your browser does not support the audio element.
+        </audio>
+    
     <li>rice = <strong>el arroz</strong></li>
-    <li>butter = <strong>la mantequilla</strong></li>
-    <li>bread = <strong>el pan</strong></li>
-    <li>apple = <strong>la manzana</strong></li>      
-    <li>cheese = <strong>el queso</strong></li>
-    <li>ice cream = <strong>el helado</strong></li>
-    <li>chicken = <strong>el pollo</strong></li>
-    <li>orange = <strong>la naranja</strong></li>
-    <li>tomato = <strong>el tomate</strong></li>
-</ul>
+        <audio controls>
+        <source src="audio/arroz.mp3" type="audio/arroz.mp3">
+         Your browser does not support the audio element.
+        </audio>
 
+    <li>butter = <strong>la mantequilla</strong></li>
+        <audio controls>
+        <source src="audio/mantequilla.mp3" type="audio/mantequilla.mp3">
+        Your browser does not support the audio element.
+        </audio>
+
+    <li>bread = <strong>el pan</strong></li>
+      <audio controls>
+      <source src="audio/pan.mp3" type="audio/pan.mp3">
+      Your browser does not support the audio element.
+      </audio>
+
+    <li>apple = <strong>la manzana</strong></li>
+      <audio controls>
+      <source src="audio/manzana.mp3" type="audio/manzana.mp3">
+      Your browser does not support the audio element.
+      </audio>
+
+    <li>cheese = <strong>el queso</strong></li>
+      <audio controls>
+      <source src="audio/queso.mp3" type="audio/queso.mp3">
+      Your browser does not support the audio element.
+      </audio>
+
+    <li>ice cream = <strong>el helado</strong></li>
+      <audio controls>
+      <source src="audio/helado.mp3" type="audio/helado.mp3">
+      Your browser does not support the audio element.
+      </audio>
+
+    <li>chicken = <strong>el pollo</strong></li>
+      <audio controls>
+      <source src="pollo.mp3" type="pollo.mp3">
+      Your browser does not support the audio element.
+      </audio>
+
+    <li>orange = <strong>la naranja</strong></li>
+      <audio controls>
+      <source src="audio/naranja.mp3" type="audio/naranja.mp3">
+      Your browser does not support the audio element.
+      </audio>
+
+    <li>tomato = <strong>el tomate</strong></li>
+      <audio controls>
+      <source src="audio/tomate.mp3" type="audio/tomate.mp3">
+      Your browser does not support the audio element.
+      </audio>
+</ul>
+</h3>
 
 
 <p>Here is a game to test your knowledge of these words.</p>
