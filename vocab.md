@@ -2,7 +2,18 @@
 
 <h2>You learn better when you are having fun, so here are some vocabulary games to help you memorise some Spanish</h2>
 
-
+<ul>
+    <li>strawberry = <strong>la fresa</strong></li>
+    <li>rice = <strong>el arroz</strong></li>
+    <li>butter = <strong>la mantequilla</strong></li>
+    <li>bread = <strong>el pan</strong></li>
+    <li>apple = <strong>la manzana</strong></li>      
+    <li>cheese = <strong>el queso</strong></li>
+    <li>ice cream = <strong>el helado</strong></li>
+    <li>chicken = <strong>el pollo</strong></li>
+    <li>orange = <strong>la naranja</strong></li>
+    <li>tomato = <strong>el tomate</strong></li>
+</ul>
 
 
 
