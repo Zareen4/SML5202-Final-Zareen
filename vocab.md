@@ -1,4 +1,4 @@
-<h1>Vocabulary Games</h1>
+<h1><strong>Vocabulary Games</strong></h1>
 
 <h2>You learn better when you are having fun, so here are some vocabulary games to help you memorise some Spanish</h2>
 
@@ -65,7 +65,7 @@
       </audio>
 </ul>
 </h3>
-
+<p>&nbsp;</p>
 
 <p>Here is a game to test your knowledge of these words.</p>
 
@@ -105,7 +105,8 @@
       Your browser does not support the audio element.
       </audio>   
 
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>Here is another activity for you to try</p>
 
 <iframe src="https://h5p.org/h5p/embed/1063417" width="1090" height="240" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
