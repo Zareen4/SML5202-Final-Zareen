@@ -74,9 +74,36 @@
 
 <p>Here are some verbs to help you understand the following text better:</p>
 
+<div class="row">
+    <div class="col-sm-5">
+     <iframe src="https://h5p.org/h5p/embed/1063306" width="1090" height="347" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+    </div>
+    <div class="col-sm-7" style="padding:5px;" >
 
-<iframe src="https://h5p.org/h5p/embed/1063306" width="1090" height="347" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
+<audio controls>
+      <source src="llevar%20recording.mp3" type="llevar%20recording.mp3">
+      Your browser does not support the audio element.
+      </audio>
+ 
+ <audio controls>
+      <source src="comer%20recording.mp3" type="comer%20recording.mp3">
+      Your browser does not support the audio element.
+      </audio>
+      
+ <audio controls>
+      <source src="comprar%20recording.mp3" type="comprar%20recording.mp3">
+      Your browser does not support the audio element.
+      </audio>
+      
+  <audio controls>
+      <source src="tener%20recording.mp3" type="tener%20recording.mp3">
+      Your browser does not support the audio element.
+      </audio>
+      
+   <audio controls>
+      <source src="hacer%20recording.mp3" type="hacer%20recording.mp3">
+      Your browser does not support the audio element.
+      </audio>   
 
 
 <p>Here is another activity for you to try</p>
