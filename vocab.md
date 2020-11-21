@@ -74,6 +74,7 @@
 <p>&nbsp;</p>
 <p>Here are some verbs to help you understand the following text better:</p>
 
+<p>
 <div class="row">
     <div class="col-sm-5">
      <iframe src="https://h5p.org/h5p/embed/1063306" width="1090" height="347" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
@@ -104,6 +105,7 @@
       <source src="hacer%20recording.mp3" type="hacer%20recording.mp3">
       Your browser does not support the audio element.
       </audio>   
+</p>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
