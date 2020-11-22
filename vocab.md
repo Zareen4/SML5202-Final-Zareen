@@ -9,9 +9,8 @@
  <ul>
     <li>strawberry = <strong>la fresa</strong></li>
         <audio controls>
-        <source src="audio/fresa.mp3" type="audio/fresa.mp3">
-        Your browser does not support the audio element.
-        </source>    
+        <source src="fresa.mp3" type="fresa.mp3">
+        Your browser does not support the audio element.   
         </audio>
     
     <li>rice = <strong>el arroz</strong></li>
