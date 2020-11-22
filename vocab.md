@@ -3,11 +3,15 @@
 <h2>You learn better when you are having fun, so here are some vocabulary games to help you memorise some Spanish</h2>
 
 <h3>
-<ul>
+
+<p>&nbsp;</p> 
+
+ <ul>
     <li>strawberry = <strong>la fresa</strong></li>
         <audio controls>
         <source src="audio/fresa.mp3" type="audio/fresa.mp3">
         Your browser does not support the audio element.
+        </source>    
         </audio>
     
     <li>rice = <strong>el arroz</strong></li>
