@@ -12,6 +12,8 @@ This video is to help you understand how to distinguish between the two
 tenses in Spanish.
 </pre>
 
+<p>&nbsp;</p>
+
 <p>This table is to show you examples of irregular verbs in the preterite and/or imperfect forms:</p>            
   <table class="table table-striped">
     <thead>
