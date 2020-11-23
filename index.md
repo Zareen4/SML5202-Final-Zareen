@@ -74,6 +74,7 @@
   </div>
 </div>
 
+<hr>
 <h3>Sources:</h3>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Madrid">Wikipedia entry on Madrid</a></li>
