@@ -67,7 +67,7 @@
 
 
 <h3>Listen to Music</h3>
-<p>Spanish covers of your favorite songs are best for Spanish learning as you already know the lyrics in English, so your brain makes the connection between the Spanish words and the meanings. You could also just listen to Spanish music which isalso very good!</p>
+<p>Spanish covers of your favorite songs are best for Spanish learning as you already know the lyrics in English, so your brain makes the connection between the Spanish words and the meanings. You could also just listen to Spanish music which is also very good!</p>
 
 <hr>
 
