@@ -53,3 +53,4 @@ tenses in Spanish.
 <li><a href="https://www.youtube.com/watch?v=3nVHhqblh88&feature=youtu.be">Youtube Video on Imperfect vs Preterite</a></li>
 <li><a href="https://www.reddit.com/r/languagelearning/comments/3yd7te/spanish_tense_chart_for_anyone_studying_spanish/">Reddit entry on Spanish Conjugation Tense Table</a></li>
 </ul>
+<p>&nbsp;</p>
