@@ -118,5 +118,5 @@
 
 <h3>Sources:</h3>
 <ul>
-<li><a href="https://h5p.org/">Interactive Content</a></li>
+<li><a href="https://h5p.org/">H5P Interactive Content</a></li>
 </ul>
