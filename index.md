@@ -80,5 +80,5 @@
 <li><a href="https://sites.google.com/site/roldelestudiantem/">Google Sites entry on Bienvenidos a mi sitio web Image</a></li>
 <li><a href="https://www.state.gov/countries-areas/spain/">US State Government entry on Spanish City Image</a></li>
 <li><a href="https://www.broadwaytravel.com/blog/best-cities-in-spain/">Broadway Travel Blog entry on Spanish Beach Picture</a></li>
-<li><a href="https://secretmanchester.com/spain-reopen-to-tourists-june/">Secret Manchester entry on Spanish Town Picture</a></li>
+<li><a href="https://secretmanchester.com/spain-reopen-to-tourists-june/">Secret Manchester Blog entry on Spanish Town Picture</a></li>
 </ul>
