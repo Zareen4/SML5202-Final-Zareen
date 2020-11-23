@@ -86,6 +86,7 @@
 </p>
 <p>&nbsp;</p>
 
+<hr>
 <h3>Sources:</h3>
 <ul>
 <li><a href="https://www.fluentu.com/blog/spanish/tips-for-learning-spanish/">FluentU Blog entry on all Language Tips</a></li>
