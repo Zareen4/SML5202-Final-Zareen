@@ -107,6 +107,7 @@
 <img src="images/San%20Fermin.jpg" alt="images/San%20Fermin.jpg" width="500" height="333">
 <p>&nbsp;</p>
 
+<hr>
 <h3>Sources:</h3>
 <ul>
 <li><a href="https://h5p.org/">H5P Interactive Content</a></li>
