@@ -85,27 +85,27 @@
     <div class="col-sm-7" style="padding:5px;" >
 <p>
 <audio controls>
-      <source src="llevar%20recording.mp3" type="audio/mpeg">
+      <source src="audio/llevar%20recording.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
       </audio>
  
  <audio controls>
-      <source src="comer%20recording.mp3" type="audio/mpeg">
+      <source src="audio/comer%20recording.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
       </audio>
       
  <audio controls>
-      <source src="comprar%20recording.mp3" type="audio/mpeg">
+      <source src="audio/comprar%20recording.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
       </audio>
       
   <audio controls>
-      <source src="tener%20recording.mp3" type="audio/mpeg">
+      <source src="audio/tener%20recording.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
       </audio>
       
    <audio controls>
-      <source src="hacer%20recording.mp3" type="audio/mpeg">
+      <source src="audio/hacer%20recording.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
       </audio>   
 </p>
