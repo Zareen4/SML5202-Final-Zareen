@@ -85,3 +85,8 @@
 <p><strong>In practice:</strong> The free community <a href="https://www.meetup.com/"><i>How Do You Do</i></a> has been set up for language learners to meet and chat online.</p>
 </p>
 <p>&nbsp;</p>
+
+<h3>Sources:</h3>
+<ul>
+<li><a href="https://www.fluentu.com/">All information</a></li>
+</ul>
