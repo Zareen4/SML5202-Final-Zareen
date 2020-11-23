@@ -88,5 +88,5 @@
 
 <h3>Sources:</h3>
 <ul>
-<li><a href="https://www.fluentu.com/blog/spanish/tips-for-learning-spanish/">FluentU Blog for all information</a></li>
+<li><a href="https://www.fluentu.com/blog/spanish/tips-for-learning-spanish/">FluentU Blog entry on all Language Tips</a></li>
 </ul>
