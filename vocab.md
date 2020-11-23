@@ -9,61 +9,61 @@
  <ul>
     <li>strawberry = <strong>la fresa</strong></li>
         <audio controls>
-        <source src="fresa.mp3" type="fresa.mp3">
+        <source src="audio/fresa.mp3" type="audio/mpeg">
         Your browser does not support the audio element.   
         </audio>
     
     <li>rice = <strong>el arroz</strong></li>
         <audio controls>
-        <source src="audio/arroz.mp3" type="audio/arroz.mp3">
+        <source src="audio/arroz.mp3" type="audio/mpeg">
          Your browser does not support the audio element.
         </audio>
 
     <li>butter = <strong>la mantequilla</strong></li>
         <audio controls>
-        <source src="audio/mantequilla.mp3" type="audio/mantequilla.mp3">
+        <source src="audio/mantequilla.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
         </audio>
 
     <li>bread = <strong>el pan</strong></li>
       <audio controls>
-      <source src="audio/pan.mp3" type="audio/pan.mp3">
+      <source src="audio/pan.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
       </audio>
 
     <li>apple = <strong>la manzana</strong></li>
       <audio controls>
-      <source src="audio/manzana.mp3" type="audio/manzana.mp3">
+      <source src="audio/manzana.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
       </audio>
 
     <li>cheese = <strong>el queso</strong></li>
       <audio controls>
-      <source src="audio/queso.mp3" type="audio/queso.mp3">
+      <source src="audio/queso.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
       </audio>
 
     <li>ice cream = <strong>el helado</strong></li>
       <audio controls>
-      <source src="audio/helado.mp3" type="audio/helado.mp3">
+      <source src="audio/helado.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
       </audio>
 
     <li>chicken = <strong>el pollo</strong></li>
       <audio controls>
-      <source src="pollo.mp3" type="pollo.mp3">
+      <source src="audio/pollo.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
       </audio>
 
     <li>orange = <strong>la naranja</strong></li>
       <audio controls>
-      <source src="audio/naranja.mp3" type="audio/naranja.mp3">
+      <source src="audio/naranja.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
       </audio>
 
     <li>tomato = <strong>el tomate</strong></li>
       <audio controls>
-      <source src="audio/tomate.mp3" type="audio/tomate.mp3">
+      <source src="audio/tomate.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
       </audio>
 </ul>
@@ -85,27 +85,27 @@
     <div class="col-sm-7" style="padding:5px;" >
 <p>
 <audio controls>
-      <source src="llevar%20recording.mp3" type="llevar%20recording.mp3">
+      <source src="llevar%20recording.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
       </audio>
  
  <audio controls>
-      <source src="comer%20recording.mp3" type="comer%20recording.mp3">
+      <source src="comer%20recording.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
       </audio>
       
  <audio controls>
-      <source src="comprar%20recording.mp3" type="comprar%20recording.mp3">
+      <source src="comprar%20recording.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
       </audio>
       
   <audio controls>
-      <source src="tener%20recording.mp3" type="tener%20recording.mp3">
+      <source src="tener%20recording.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
       </audio>
       
    <audio controls>
-      <source src="hacer%20recording.mp3" type="hacer%20recording.mp3">
+      <source src="hacer%20recording.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
       </audio>   
 </p>
