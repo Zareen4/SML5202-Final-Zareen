@@ -126,3 +126,4 @@
 <li><a href="https://skift.com/2015/09/23/spains-record-tourism-helped-by-unrest-in-middle-east-and-north-africa/">Skift entry on Spain Tourism Image</a></li>
 <li><a href="https://www.theguardian.com/world/2016/jul/10/two-spanish-men-gored-pamplona-bull-run-san-fermin">The Guardian entry on Spain San Fermin Image</a></li>
 </ul>
+<p>&nbsp;</p>
