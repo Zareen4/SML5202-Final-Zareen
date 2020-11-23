@@ -47,6 +47,7 @@ tenses in Spanish.
 
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://external-preview.redd.it/GrIUiQk1rJi40JpbbZ9DDVyxFHnAqPIhkdUqI1XJFYY.png?auto=webp&amp;s=e3a1b6dd0388baa041f6be7e93fdaab8e493c241" width="1200" height="1050">
 
+<hr>
 <h3>Sources:</h3>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=3nVHhqblh88&feature=youtu.be">Youtube Video on Imperfect vs Preterite</a></li>
