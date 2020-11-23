@@ -78,7 +78,7 @@
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Madrid">Wikipedia entry on Madrid</a></li>
 <li><a href="https://sites.google.com/site/roldelestudiantem/">Bienvenidos a mi sitio web Picture</a></li>
-<li><a href="https://www.state.gov/countries-areas/spain/">City Picture</a></li>
-<li><a href="https://www.broadwaytravel.com/blog/best-cities-in-spain/">Beach Picture</a></li>
-<li><a href="https://secretmanchester.com/spain-reopen-to-tourists-june/">Town Picture</a></li>
+<li><a href="https://www.state.gov/countries-areas/spain/">US State Government Spanish City Picture</a></li>
+<li><a href="https://www.broadwaytravel.com/blog/best-cities-in-spain/">Broadway Travel Blog Spanish Beach Picture</a></li>
+<li><a href="https://secretmanchester.com/spain-reopen-to-tourists-june/">Secret Manchester Spanish Town Picture</a></li>
 </ul>
