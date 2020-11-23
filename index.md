@@ -83,3 +83,4 @@
 <li><a href="https://www.broadwaytravel.com/blog/best-cities-in-spain/">Broadway Travel Blog entry on Spanish Beach Picture</a></li>
 <li><a href="https://secretmanchester.com/spain-reopen-to-tourists-june/">Secret Manchester Blog entry on Spanish Town Picture</a></li>
 </ul>
+<p>&nbsp;</p>
