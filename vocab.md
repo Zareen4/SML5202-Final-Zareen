@@ -1,5 +1,6 @@
 <h1><strong>Vocabulary Games</strong></h1>
 
+<p><i>"Hypermedia, it can be argued, offers the possibility of a vehicle for [...] developing independent extensive reading competence."</i> - Micheal Evans (1993)</p>
 <h2>You learn better when you are having fun, so here are some vocabulary games to help you memorise some Spanish</h2>
 
 <h3>
@@ -118,6 +119,7 @@
 <hr>
 <h3>Sources:</h3>
 <ul>
+<li>Evans. M, System, Volume 21, Issue 2, May 1993, Pages 213-229</li>
 <li><a href="https://h5p.org/">H5P Interactive Content</a></li>
 </ul>
 <p>&nbsp;</p>
