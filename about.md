@@ -10,7 +10,7 @@
 
 
 <img src="images/EU%20and%20Spain.png" alt="images/EU%20and%20Spain.png" width="500" height="333">
-<h8>NuclearVacuum, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons</h8>
+<p><small>NuclearVacuum, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons</small></p>
 <p>&nbsp;</p>
 
 <h3><strong>Home of the world’s second most widely-spoken language</strong></h3>
@@ -26,7 +26,7 @@
 
 
 <img src="images/Spain%20Population.png" alt="images/Spain%20Population.png" width="500" height="333">
-<h8>dieghernan, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons</h8>
+<p><small>dieghernan, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons</p></small>
 <p>&nbsp;</p>
 
 
@@ -75,7 +75,7 @@
 
 
 <img src="images/La%20Tomatina.jpg" alt="images/La%20Tomatina.jpg" width="500" height="333"> 
-<h8>Carlesboveserral, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons</h8>
+<p><small>Carlesboveserral, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons</p></small>
 <p>&nbsp;</p>
 
 
@@ -108,7 +108,7 @@
 
 
 <img src="images/San%20Fermin.jpg" alt="images/San%20Fermin.jpg" width="500" height="333">  
-<h8>Photograph: Pedro Armestre/AFP/Getty Images</h8>
+<p><small>Photograph: Pedro Armestre/AFP/Getty Images</p></small>
 <p>&nbsp;</p>
 
 <hr>
