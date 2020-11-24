@@ -10,6 +10,7 @@
 
 
 <img src="images/EU%20and%20Spain.png" alt="images/EU%20and%20Spain.png" width="500" height="333">
+<h8>NuclearVacuum, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons</h8>
 <p>&nbsp;</p>
 
 <h3><strong>Home of the world’s second most widely-spoken language</strong></h3>
@@ -25,6 +26,7 @@
 
 
 <img src="images/Spain%20Population.png" alt="images/Spain%20Population.png" width="500" height="333">
+<h8>dieghernan, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons</h8>
 <p>&nbsp;</p>
 
 
@@ -72,7 +74,8 @@
 <p>… at the legendary La Tomatina festival. Held every August, the festival sees revelers from around the world descend on the small town of Buñol, near Valencia. Visitors are encouraged to throw as many tomatoes as they can – but only once they been squashed, to avoid any injuries.</p>
 
 
-<img src="images/La%20Tomatina.jpg" alt="images/La%20Tomatina.jpg" width="500" height="333">
+<img src="images/La%20Tomatina.jpg" alt="images/La%20Tomatina.jpg" width="500" height="333"> 
+<h8>Carlesboveserral, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons</h8>
 <p>&nbsp;</p>
 
 
@@ -104,7 +107,8 @@
 <p>Spain is a country full of festivals. As well as La Tomatina, the country has a wide range of kooky Spanish festivals to check out. You can be chased by bulls during the festivals of San Fermin, watch huge ninots (statues) get burnt during Las Fallas, or soak up some history at Romería de Nuesra Señora de le Cabeza. There’s never a dull moment in this sunny country!</p>
 
 
-<img src="images/San%20Fermin.jpg" alt="images/San%20Fermin.jpg" width="500" height="333">
+<img src="images/San%20Fermin.jpg" alt="images/San%20Fermin.jpg" width="500" height="333">  
+<h8>Photograph: Pedro Armestre/AFP/Getty Images</h8>
 <p>&nbsp;</p>
 
 <hr>
@@ -112,15 +116,15 @@
 <ul>
 <li><a href="https://h5p.org/">H5P Interactive Content</a></li>
 <li><a href="https://www.expatica.com/es/moving/about/facts-about-spain-109108/">Expatica entry on Spanish Fun Facts</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Spain">Wikipedia entry on Spain EU Map</a></li>
+<li><a href="https://commons.wikimedia.org/wiki/File:EU-Spain.svg">NuclearVacuum</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons">Wikipedia entry on Spain EU Map</a></li>
 <li><a href="https://www.statista.com/chart/12868/the-worlds-most-spoken-languages/">Statista entry on Spoken Language Statistics Image</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Demographics_of_Spain">Wikipedia etry on Spain Population Density Image</a></li>
+<li><a href="https://commons.wikimedia.org/wiki/File:Population_per_km2_by_municipality_in_Spain_(2018).svg">dieghernan</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons, Wikipedia entry on Spain Population Density Image</a></li>
 <li><a href="https://theodora.com/wfbcurrent/spain/spain_people.html">Theodora entry on Spain Life Expectancy Image</a></li>
 <li><a href="https://www.arcgis.com/apps/MapJournal/index.html?appid=90641ac21598416383d244f84fa26734">Arcgis entry on Spain Religion Demographics Image</a></li>
 <li><a href="https://www.totallyspaintravel.com/2019/04/24/spains-unesco-world-heritage-sights-useful-guide/">Totally Spain Travel entry on Spain UNESCO World Heritage Sites Image</a></li>
 <li><a href="https://www.travelandleisure.com/trip-ideas/don-quixote-spain-trip">Travel and Leisure entry on Don Quixote Image</a></li>
 <li><a href="https://inhabitat.com/wind-power-becomes-spains-top-source-of-electricity/">Inhabitat entry on Spain Wind Turbines Image</a></li>
-<li><a href="https://en.wikipedia.org/wiki/La_Tomatina">Wikipedia entry on Spain La Tomatina Image</a></li>
+<li><a href="https://commons.wikimedia.org/wiki/File:La_Tomatina_2014.jpg">Carlesboveserral</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons, Wikipedia entry of La Tomatina</li>
 <li><a href="https://ttmadrid.com/blog/chueca-the-heart-of-gay-madrid/">TTMadrid Blog entry on Spain Chueca District Image</a></li>
 <li><a href="https://www.theworldisabook.com/22270/madrid-with-kids-botin-restaurant/">The World Is A Book entry on Spain World's Oldest Restaurant Image</a></li>
 <li><a href="https://skift.com/2015/09/23/spains-record-tourism-helped-by-unrest-in-middle-east-and-north-africa/">Skift entry on Spain Tourism Image</a></li>
