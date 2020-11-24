@@ -26,7 +26,7 @@
 
 
 <img src="images/Spain%20Population.png" alt="images/Spain%20Population.png" width="500" height="333">
-<p><small>dieghernan, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons</p></small>
+<p><small>dieghernan, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons</small></p>
 <p>&nbsp;</p>
 
 
@@ -75,7 +75,7 @@
 
 
 <img src="images/La%20Tomatina.jpg" alt="images/La%20Tomatina.jpg" width="500" height="333"> 
-<p><small>Carlesboveserral, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons</p></small>
+<p><small>Carlesboveserral, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons</small></p>
 <p>&nbsp;</p>
 
 
@@ -108,7 +108,7 @@
 
 
 <img src="images/San%20Fermin.jpg" alt="images/San%20Fermin.jpg" width="500" height="333">  
-<p><small>Photograph: Pedro Armestre/AFP/Getty Images</p></small>
+<p><small>Photograph: Pedro Armestre/AFP/Getty Images</small></p>
 <p>&nbsp;</p>
 
 <hr>
