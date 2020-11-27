@@ -1,6 +1,6 @@
 <h1><strong>Vocabulary Games</strong></h1>
 
-<p><i>"Hypermedia, it can be argued, offers the possibility of a vehicle for [...] developing independent extensive reading competence."</i> - Micheal Evans (1993)</p>
+<p><i>"Hypermedia, it can be argued, offers the possibility of a vehicle for [...] developing independent extensive reading competence."</i> - Michael Evans (1993)</p>
 <h2>You learn better when you are having fun, so here are some vocabulary games to help you memorise some Spanish</h2>
 
 <h3>
