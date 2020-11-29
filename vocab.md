@@ -78,7 +78,7 @@
 <p>&nbsp;</p>
 <p>Here are some verbs to help you understand the following text better:</p>
 
-
+<pre>
 <div class="row">
     <div class="col-sm-5">
      <iframe src="https://h5p.org/h5p/embed/1063306" width="1090" height="347" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
@@ -115,7 +115,7 @@
 <p>Here is another activity for you to try</p>
 
 <iframe src="https://h5p.org/h5p/embed/1063417" width="1090" height="240" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
+</pre>
 <hr>
 <h3>Sources:</h3>
 <ul>
