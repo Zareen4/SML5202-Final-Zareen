@@ -110,7 +110,8 @@
       Your browser does not support the audio element.
       </audio>   
 </p>
-
+    </div>
+    </div>
 
 <p>Here is another activity for you to try</p>
 
