@@ -123,5 +123,6 @@
 <ul>
 <li>Evans. M, System, Volume 21, Issue 2, May 1993, Pages 213-229</li>
 <li><a href="https://h5p.org/">H5P Interactive Content</a></li>
+<li><a href="https://www.spanishdict.com/translation">SpanishDict Accordion List Definitions</a></li>
 </ul>
 <p>&nbsp;</p>
